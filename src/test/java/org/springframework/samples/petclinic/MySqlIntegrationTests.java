@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 //Added Comment to ckeck Webhook..
-//Invoked Test
+//Invoked Test.
 package org.springframework.samples.petclinic;
 
 import static org.assertj.core.api.Assertions.assertThat;
