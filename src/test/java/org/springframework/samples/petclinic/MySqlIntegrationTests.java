@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-//Added Comment to ckeck Webhook
+//Added Comment to ckeck Webhook.
 package org.springframework.samples.petclinic;
 
 import static org.assertj.core.api.Assertions.assertThat;
