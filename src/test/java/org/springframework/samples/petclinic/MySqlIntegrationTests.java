@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
+//Added Comment to ckeck SCM Polling
 package org.springframework.samples.petclinic;
 
 import static org.assertj.core.api.Assertions.assertThat;
